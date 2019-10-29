@@ -1,1 +1,1 @@
-# alaskan-cruise-lines-for-responsive-design
+# Alaskan cruise lines for responsive design
